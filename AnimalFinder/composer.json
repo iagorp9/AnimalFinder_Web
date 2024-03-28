@@ -1,0 +1,10 @@
+{
+    "autoload": {
+      "psr-4": {
+        "APP\\": "./src"
+      },"files":[
+        "config.php"
+      ]
+    }
+  }
+  
